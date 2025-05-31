@@ -1,6 +1,7 @@
 name: macOS
 
 on:
+  create:
   workflow_dispatch:
 
 jobs:
